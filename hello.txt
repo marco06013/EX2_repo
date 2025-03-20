@@ -4,3 +4,5 @@ some text
 hi hi
 
 add to vs code
+
+from git to vs code
